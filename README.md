@@ -1,4 +1,6 @@
 # VPC-LAB
+VPC-LAB.docx contains all the information related to the configurations.
+
 Overview AWS Services such as VPC, Internet Gateway, Security Groups, Route Tables, NAT Gateway, EC2 Instances, Subnets 
 #aws #security #github 
 > Creating and Customizing VPC  #vpc 
